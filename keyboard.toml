@@ -62,7 +62,7 @@ _      _    _   _     _    _     _     _     mo(adjust) _     _     _
 [[layer]]
 name = "adjust"
 keys = """
-_ BT0 BT1 BT2 BT_CLR USB_BLE _ _ _ _ _ _
+BT0 BT1 BT2 CLR_BT SWITCH _ _ NEXT_BT PREV_BT _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _
