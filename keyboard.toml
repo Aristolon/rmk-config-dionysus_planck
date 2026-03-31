@@ -46,8 +46,8 @@ RShift LCtrl LAlt LGui mo(upper) Space Space mo(lower) Left  Down Up        Righ
 [[layer]]
 name = "upper"
 keys = """
-@tild @exlm @at @hash @dlr @perc @circ @ampr @astr @lprn @rprn _
-Delete F1   F2  F3    F4   F5    F6    @unds @plus @lcbr @rcbr @pipe
+_      _    _   _     _    _     _     _     _ _     _     _
+Delete F1   F2  F3    F4   F5    F6   _     _ _     _     _
 _      F7   F8  F9    F10  F11   F12   No    No    Home  End   _
 _      _    _   _     _    _     _     _     mo(adjust) _     _     _
                         Space Space
@@ -56,7 +56,7 @@ _      _    _   _     _    _     _     _     mo(adjust) _     _     _
 [[layer]]
 name = "lower"
 keys = """
-Grave  Kc1 Kc2 Kc3 Kc4 Kc5 Kc6 Kc7   Kc8    Kc9         Kc0          _
+Grave  1 2 3 4 5 6 7   8    9         0          _
 Delete F1  F2  F3  F4  F5  F6  Minus Equal  LeftBracket RightBracket Backslash
 _      F7  F8  F9  F10 F11 F12 No    No     PageUp      PageDown     _
 _      _    _   _     _    _     _     _     mo(adjust) _     _     _
@@ -66,7 +66,7 @@ _      _    _   _     _    _     _     _     mo(adjust) _     _     _
 [[layer]]
 name = "adjust"
 keys = """
-_ @bt0 @bt1 @bt2 @btclr @usbble _ _ _ _ _ _
+_ BT0 BT1 BT2 BT_CLR USB_BLE _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _
